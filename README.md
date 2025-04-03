@@ -29,4 +29,4 @@ Can't find the project you're looking for? No problem! Just contact me for a cus
 
 ### 🗣 Recent Activity
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
