@@ -25,3 +25,8 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 
 Can't find the project you're looking for? No problem! Just contact me for a customized quote—I’m confident we can create the perfect solution together.
 
+---
+
+### 🗣 Recent Activity
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)
