@@ -1,4 +1,4 @@
-# Hi, I’m @Miichiiii 👋
+# Hi, I’m @Miichiiii [👋](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
 
 I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukraine, I bring a unique blend of finance, design, and digital solutions to every project. I’m passionate about helping businesses scale new heights with fresh, modern, and creative approaches.
 
