@@ -23,7 +23,10 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 - **Design:**  
   Crafting visually stunning digital experiences and brand identities that resonate and engage.
 
-Can't find the project you're looking for? No problem! Just contact me for a customized quote—I’m confident we can create the perfect solution together.
+Can't find the project you're looking for? 
+ **No problem!**
+<br>Just contact me for a customized quote—I’m confident we can create the perfect solution together. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
 
 ---
 
