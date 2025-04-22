@@ -1,3 +1,11 @@
+<!--  💻✨ Coded by
+███╗   ███╗██╗██╗ ██████╗██╗  ██╗██╗██╗██╗
+████╗ ████║██║██║██╔════╝██║  ██║██║██║██║
+██╔████╔██║██║██║██║     ███████║██║██║██║
+██║╚██╔╝██║██║██║██║     ██╔══██║██║██║╚═╝
+██║ ╚═╝ ██║██║██║╚██████╗██║  ██║██║██║██╗
+╚═╝     ╚═╝╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝╚═╝     
+-->
 # Hi, I’m @Miichiiii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukraine, I bring a unique blend of finance, design, and digital solutions to every project. I’m passionate about helping businesses scale new heights with fresh, modern, and creative approaches.
