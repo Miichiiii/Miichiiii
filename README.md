@@ -5,7 +5,7 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 - 👀 **I’m interested in:** Innovative digital projects, cutting-edge design, and transformative web experiences.
 - 🌱 **I’m currently learning:** The latest trends in social media, advanced image editing, and emerging web technologies.
 - 💞️ **I’m looking to collaborate on:** Projects that merge creativity with smart, digital strategies—whether it's a sleek website or a revolutionary financial coaching platform.
-- 📫 **How to reach me:** Connect with me on Linkedin or drop an E-Mail at [michael@medvidov.com].
+- 📫 **How to reach me:** Connect with me on LinkedIn or drop an E-Mail at [michael@medvidov.com].
 
 ---
 
