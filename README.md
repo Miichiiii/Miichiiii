@@ -1,4 +1,4 @@
-<!--  💻✨ Coded by
+<!--  ✨ Coded by
 ███╗   ███╗██╗██╗ ██████╗██╗  ██╗██╗██╗██╗
 ████╗ ████║██║██║██╔════╝██║  ██║██║██║██║
 ██╔████╔██║██║██║██║     ███████║██║██║██║
@@ -17,7 +17,7 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 
 ---
 
-## What I'm Doing
+## What I'm Doing 💻
 
 - **Financial Coaching:**  
   Professional guidance to help you achieve your financial goals through expert advice and forward-thinking planning.
