@@ -41,4 +41,4 @@ Can't find the project you're looking for?
 ### 🗣 Recent Activity
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
-<img src="/Bilder/contribution-M.png" height="64px">
+<img src="/Bilder/contribution-M.png" height="364px">
