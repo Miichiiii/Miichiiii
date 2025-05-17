@@ -35,10 +35,22 @@ Can't find the project you're looking for?
  **No problem!**
 <br>Just contact me for a customized quote—I’m confident we can create the perfect solution together. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-
+---
+### Something Useful 🔧 
+| Project | Introduction |
+| :----:  | :---- |
+| [mytrueKarma](https://github.com/Miichiiii/WebsiteNachbau) | The first finance-socially transparent multi-vendor e-commerce platform.|
+| [Taubby](https://github.com/Miichiiii/Taubby) | Egg statistics for a good cause|
+| [Git-trainer](https://github.com/Miichiiii/git-trainer) | Interaktive Git-Learn-App /w Terminal |
+| [Not-to-do-List](https://github.com/Miichiiii/Not-to-do-Liste) | Not-to-do-List |
+| [WichPet](https://github.com/Miichiiii/WichPet) | An interactive web app that compares the acquisition etc. of six pets at a glance. |
+| [LoveWorth](https://github.com/Miichiiii/LoveWorth) | Discover the compatibility in your relationship|
+| [Planty](https://github.com/Miichiiii/Planty) | Planty - Interaktive Clicker-Game |
+| [Trumplife](https://github.com/Miichiiii/Trumplife) | Polit-satirische Clicker-Game-Parodie |
+| [EmojiFilmQuiz](https://github.com/Miichiiii/EmojiFilmQuiz) | A simple Emoji Film Quiz |
 ---
 
-### 🗣 Recent Activity
+### Recent Activity 🗣
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
 <img src="/Bilder/contributions-Miichiiii.jpg" height="364px" max-width="400px">
