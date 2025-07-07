@@ -16,9 +16,9 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 - 📫 **How to reach me:** Connect with me on LinkedIn or drop an E-Mail at [michael@medvidov.com].
 
 ---
-
-## What I'm Doing 💻
-
+<details>
+ <summary>What I'm Doing 💻</summary>
+  
 - **Financial Coaching:**  
   Professional guidance to help you achieve your financial goals through expert advice and forward-thinking planning.
 
@@ -34,9 +34,11 @@ I'm a Digital All-Rounder from Düsseldorf, Germany. Born in 1991 in Dnipro, Ukr
 Can't find the project you're looking for? 
  **No problem!**
 <br>Just contact me for a customized quote—I’m confident we can create the perfect solution together. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+</details>
 
----
-### Something Useful 🔧 
+<details>
+ <summary>Something Useful 🔧</summary>
+
 | Project | Introduction |
 | :----:  | :---- |
 | [mytrueKarma](https://github.com/Miichiiii/WebsiteNachbau) | The first finance-socially transparent multi-vendor e-commerce platform.|
@@ -49,7 +51,10 @@ Can't find the project you're looking for?
 | [Trumplife](https://github.com/Miichiiii/Trumplife) | Polit-satirische Clicker-Game-Parodie |
 | [EmojiFilmQuiz](https://github.com/Miichiiii/EmojiFilmQuiz) | A simple Emoji Film Quiz |
 ---
+</details>
+<details>
+  <summary>Recent Activity ⚡</summary>
 
-### Recent Activity 🗣
+[![Miichiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats)                    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
+</details>
