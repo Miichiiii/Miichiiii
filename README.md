@@ -60,17 +60,18 @@ Can't find the project you're looking for?
 <details>
   <summary>Recent Activity ⚡</summary>
 
-[![Miichiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
 
-</details>
-
-<details>
-  <summary>Contribution Snake 🐍</summary>
-  
+<h3 align="center">Contribution Snake 🐍</h3>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miichiiii/Miichiiii/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miichiiii/Miichiiii/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Miichiiii/Miichiiii/output/github-contribution-grid-snake.svg">
   </picture>
-  
+</p>
+
+
+[![Miichiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miichiiii)](https://github.com/Miichiiii/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miichiiii&hide_progress=true)
+
+
 </details>
