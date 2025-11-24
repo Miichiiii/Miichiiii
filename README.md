@@ -44,7 +44,7 @@ Can't find the project you're looking for?
 
 |                            Project                             | Introduction                                                                       |
 | :------------------------------------------------------------: | :--------------------------------------------------------------------------------- |
-|   [mytrueKarma](https://github.com/Miichiiii/WebsiteNachbau)   | The first finance-socially transparent multi-vendor e-commerce platform.           |
+|   [mytrueKarma](https://github.com/mytrueKarma)                | The first finance-socially transparent multi-vendor e-commerce platform.           |
 |         [Taubby](https://github.com/Miichiiii/Taubby)          | Egg statistics for a good cause                                                    |
 |    [Git-trainer](https://github.com/Miichiiii/git-trainer)     | Interaktive Git-Learn-App /w Terminal                                              |
 | [Not-to-do-List](https://github.com/Miichiiii/Not-to-do-Liste) | Not-to-do-List                                                                     |
@@ -52,7 +52,9 @@ Can't find the project you're looking for?
 |      [LoveWorth](https://github.com/Miichiiii/LoveWorth)       | Discover the compatibility in your relationship                                    |
 |         [Planty](https://github.com/Miichiiii/Planty)          | Planty - Interaktive Clicker-Game                                                  |
 |      [Trumplife](https://github.com/Miichiiii/Trumplife)       | Polit-satirische Clicker-Game-Parodie                                              |
+|  [Happy Dog Sights](https://github.com/Miichiiii/HappyDogSights)  | Sightseeing-points in DE & Dog Pensions nearby                                  |
 |  [EmojiFilmQuiz](https://github.com/Miichiiii/EmojiFilmQuiz)   | A simple Emoji Film Quiz                                                           |
+|  [Student Freebies](https://github.com/Miichiiii/Student-Freebies)   | Freebies-List                                                           |
 
 ---
 
